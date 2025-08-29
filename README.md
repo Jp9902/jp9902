@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Pedro and I'm a programming student from Brazil.</p>
+<p align="left">My name is João Pedro and I'm a programming student from Brazil, cursing the high school on FIAP school.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning programming attending technical high school at fiap school<br>🎯 Goals: Being able to work in the database development area<br>🎲 Fun fact: I have already created several tables in SQL Server</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning programming attending technical high school<br>🎯 Goals: Being able to work in the database development area<br>🎲 Fun fact: I have already created several tables in SQL Server</p>
 
 ###
 
